@@ -1,0 +1,19 @@
+.Root {
+  padding: 12px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.Primary {
+  background: var(--color-blue-1);
+  color: var(--color-white);
+}
+
+.Transparent {
+  background: transparent;
+  color: var(--color-blue-1);
+}
