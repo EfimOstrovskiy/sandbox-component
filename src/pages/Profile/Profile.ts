@@ -7,7 +7,7 @@ const template = `
     <div class="${styles.Profile}">
       <div class="${styles.User}">
         <div class="${styles.Photo}">
-          <img src="${PROFILE_ICON}" alt="Фото профиля" />
+          <img src="../../../public/images/icons/piluli.svg" alt="Фото профиля" />
         </div>
         <h4 class="${styles.Name}">{#name#}</h4>
         <form class="${styles.Form}">
